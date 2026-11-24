@@ -1,0 +1,15 @@
+{
+  "appId": "com.aaroncav2.gridwave",
+  "appName": "GridWave",
+  "webDir": "www",
+  "ios": {
+    "contentInset": "never",
+    "backgroundColor": "#0f766e",
+    "allowsLinkPreview": false
+  },
+  "plugins": {
+    "StatusBar": {
+      "style": "DARK"
+    }
+  }
+}
